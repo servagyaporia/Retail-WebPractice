@@ -49,6 +49,10 @@ namespace Retail_Web_DFA.Controllers
         {
             return View();
         }
+        public IActionResult TestMethod44()
+        {
+            return View();
+        }
     }
 
  
