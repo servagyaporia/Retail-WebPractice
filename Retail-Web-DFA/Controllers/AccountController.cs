@@ -53,7 +53,7 @@ namespace Retail_Web_DFA.Controllers
         {
             return View();
         }
-        public IActionResult TestMethodnw1()
+        public IActionResult TestMethodnw12()
         {
             return View();
         }
