@@ -31,10 +31,14 @@ namespace Retail_Web_DFA.Controllers
             ViewBag.Error = "Invalid Username or Password";
             return View();
         }
+
+        public IActionResult TestMethod1()
+        {
+            return View();
+        }
     }
 
-    public IActionResult Test()
-    {
-        return View();
-    }
+ 
+
+
 }
