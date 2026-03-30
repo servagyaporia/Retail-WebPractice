@@ -32,7 +32,11 @@ namespace Retail_Web_DFA.Controllers
             return View();
         }
 
-        public IActionResult TestMethod1()
+        public IActionResult TestMethod2()
+        {
+            return View();
+        }
+        public IActionResult TestMethod3()
         {
             return View();
         }
