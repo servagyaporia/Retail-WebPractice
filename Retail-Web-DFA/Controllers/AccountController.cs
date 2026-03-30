@@ -33,13 +33,7 @@ namespace Retail_Web_DFA.Controllers
         }
     }
 
-    public IActionResult Test()
-    {
-        return View();
-    }
+ 
 
-    public IActionResult DevTesting1()
-    {
-        return View();
-    }
+
 }
